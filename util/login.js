@@ -1,0 +1,1 @@
+exports.authLogin = (req, res) => {};
