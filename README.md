@@ -19,4 +19,8 @@ Update the rating and average rating of all the ratings is shown
 
 <img width="313" alt="image" src="https://github.com/VreetiAggarwal/Rating-and-Review-on-MERN-/assets/110801536/756dab7c-a1bd-428f-8859-0a4d34382086">
 
+Login form for the admin and user
+<img width="420" alt="image" src="https://github.com/VreetiAggarwal/Rating-and-Review-on-MERN-/assets/110801536/6f3e8b94-2dc1-472a-b27d-5a8e5187a855">
+
+We can create, update, delete and perform CRUD operations to upload movie, actors and to change ratings for a particular user. The ratings shown is the average sum of the ratings that all the users had rated.
 
