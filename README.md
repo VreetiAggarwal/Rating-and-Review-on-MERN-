@@ -23,5 +23,6 @@ Login form for the admin and user
 
 <img width="420" alt="image" src="https://github.com/VreetiAggarwal/Rating-and-Review-on-MERN-/assets/110801536/6f3e8b94-2dc1-472a-b27d-5a8e5187a855">
 
-We can create, update, delete and perform CRUD operations to upload movie, actors and to change ratings for a particular user. The ratings shown is the average sum of the ratings that all the users had rated.
+We can create, update, delete and perform CRUD operations to upload movie, actors and to change ratings for a particular user in the ADMIN PROTAL. 
+The ratings shown is the average sum of the ratings that all the users had rated.
 
